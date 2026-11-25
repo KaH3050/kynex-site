@@ -1,0 +1,8 @@
+{
+  // Site estático da KYNEX: a Cloudflare serve os arquivos desta pasta.
+  "name": "kynex",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "."
+  }
+}
